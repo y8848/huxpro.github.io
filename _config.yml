@@ -1,6 +1,6 @@
 # Site settings
-title: 余'博客
-SEOTitle: 想飞上天 | 和太阳肩并肩
+title: 余
+SEOTitle: 余'博客
 header-img: img/home-bg.jpg
 email: hryu@hnu.edu.cn
 description: "小小的程序员，大大的梦想家"
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     yu
-#zhihu_username:     yu
-#github_username:    yu
-#twitter_username:   yu
+weibo_username:     yu
+zhihu_username:     yu
+github_username:    yu
+twitter_username:   yu
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
